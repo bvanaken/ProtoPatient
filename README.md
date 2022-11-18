@@ -2,7 +2,9 @@
 
 ![The ProtoPatient model bases its predictions on similarities to prototypical diagnosis descriptions.](img/intro.png)
 
-This repository contains source code for the experiments conducted in the paper "_This_ Patient Looks Like _That_ Patient: Prototypical Networks for Interpretable Diagnosis Prediction from Clinical Text".
+This repository contains source code for the experiments conducted in the paper [_This_ Patient Looks Like _That_ Patient: Prototypical Networks for Interpretable Diagnosis Prediction from Clinical Text](https://arxiv.org/abs/2210.08500).
+
+A demo application can be found here: [ProtoPatient Demo](https://protopatient.demo.datexis.com/).
 
 ## Usage
 
